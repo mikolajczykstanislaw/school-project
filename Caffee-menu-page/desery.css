@@ -22,6 +22,7 @@
     background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
     padding: 20px;
     max-width: 500px;
   }
@@ -57,7 +58,7 @@
   }
   
   .footer {
-    height: 80px;
+    height: 40px;
   }
   
   h2 {
